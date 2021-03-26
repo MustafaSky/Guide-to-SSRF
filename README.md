@@ -31,6 +31,10 @@ https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Preve
 
 https://github.com/swisskyrepo/SSRFmap
 
+# SSRF Techniques
+
+https://www.xmind.net/m/eJm7bd/
+
 # Writeups
 
 https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978
