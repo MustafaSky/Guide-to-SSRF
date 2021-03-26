@@ -40,3 +40,12 @@ https://www.xmind.net/m/eJm7bd/
 https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978
 
 https://www.shorebreaksecurity.com/blog/ssrfs-up-real-world-server-side-request-forgery-ssrf/
+
+https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf
+
+https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html
+
+https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/
+
+https://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html
+
