@@ -27,11 +27,19 @@ https://www.neuralegion.com/blog/ssrf-server-side-request-forgery/
 https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html#case-1-application-can-send-request-only-to-identified-and-trusted-applications
 
 
-# A powerful tool: SSRFmap
+# A powerful tool: SSRFmap , SSRF bug with automation
 
-https://github.com/swisskyrepo/SSRFmap
+SSRFmap - https://github.com/swisskyrepo/SSRFmap
+gf (tomnomnom) — https://github.com/tomnomnom/gf
+qsreplace(tomnomnom) — https://github.com/tomnomnom/qsreplace
+ffuf — https://github.com/ffuf/ffuf
+gau(Corben) — https://github.com/lc/gau
+waybackurls(tomnomnom) — https://github.com/tomnomnom/waybackurls
 
-# SSRF Techniques
+* https://notifybugme.medium.com/finding-ssrf-by-full-automation-7d2680091d68 *
+* https://dant0x65.medium.com/bug-bounty-tip-automating-ssrf-ea344ec59962 *
+
+# SSRF Techniques 
 
 https://www.xmind.net/m/eJm7bd/
 
@@ -48,4 +56,23 @@ https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html
 https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/
 
 https://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html
+
+https://secureitmania.medium.com/an-unknown-linux-secret-that-turned-ssrf-to-os-command-injection-6fe2f4edc202
+
+https://speakerdeck.com/aditya45/hunting-headers-for-ssrf?slide=16https://docs.google.com/presentation/d/1JdIjHHPsFSgLbaJcHmMkE904jmwPM4xdhEuwhy2ebvo/htmlpresent
+
+https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/
+
+https://sanderwind.medium.com/escalating-ssrf-to-rce-7c0147371c40
+
+https://ltsirkov.medium.com/gitlab-server-side-request-forgery-in-project-import-page-6fdb9ef423e4
+
+https://ltsirkov.medium.com/gitlab-just-another-ssrf-issue-483bc040392b
+
+https://rohit-soni.medium.com/story-behind-sweet-ssrf-40c705f13053
+
+https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/
+
+https://github.com/assetnote/blind-ssrf-chains
+
 
