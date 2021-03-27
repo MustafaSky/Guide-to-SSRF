@@ -30,10 +30,15 @@ https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Preve
 # A powerful tool: SSRFmap , SSRF bug with automation
 
 SSRFmap - https://github.com/swisskyrepo/SSRFmap
+
 gf (tomnomnom) — https://github.com/tomnomnom/gf
+
 qsreplace(tomnomnom) — https://github.com/tomnomnom/qsreplace
+
 ffuf — https://github.com/ffuf/ffuf
+
 gau(Corben) — https://github.com/lc/gau
+
 waybackurls(tomnomnom) — https://github.com/tomnomnom/waybackurls
 
 * https://notifybugme.medium.com/finding-ssrf-by-full-automation-7d2680091d68 *
