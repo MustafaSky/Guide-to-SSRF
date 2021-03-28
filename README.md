@@ -43,6 +43,8 @@ gau(Corben) —           https://github.com/lc/gau
 
 waybackurls(tomnomnom) — https://github.com/tomnomnom/waybackurls
 
+https://github.com/pownx/quickpress
+
 * https://notifybugme.medium.com/finding-ssrf-by-full-automation-7d2680091d68 *
 * https://dant0x65.medium.com/bug-bounty-tip-automating-ssrf-ea344ec59962 *
 
@@ -104,6 +106,25 @@ https://infosecwriteups.com/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4
 
 https://infosecwriteups.com/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc
 
+https://xvnpw.medium.com/from-in-regex-to-ssrf-part-1-31d5706854ef
+
+https://xvnpw.medium.com/from-in-regex-to-ssrf-part-2-7e4ff261de85
+
+https://nahamsec.com/posts/my-expense-report-resulted-in-a-server-side-request-forgery-ssrf-on-lyft *
+
+https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204
+
+https://www.reddit.com/r/Slackers/comments/g6pt8t/the_road_from_sandboxed_ssti_to_ssrf_and_xxe/
+
+https://medium.com/@d3fl4t3/exploiting-ssrf-in-rethinkdb-38a5a5438fb7
+
+https://shahjerry33.medium.com/blind-ssrf-sentry-misconfiguration-a68edc789db2
+
+https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a
+
+https://lab.wallarm.com/blind-ssrf-exploitation/
+
+
 
 
 
@@ -144,6 +165,11 @@ https://infosecwriteups.com/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-al
 https://hackerone.com/reports/247680
 https://hackerone.com/reports/895696
 https://hackerone.com/reports/878779
+https://hackerone.com/reports/826361
+https://hackerone.com/reports/736867
+https://hackerone.com/reports/756149
+https://hackerone.com/reports/374737
+https://hackerone.com/reports/361793
 
 
 # PayloadsAllTheThings / Server Side Request Forgery /
