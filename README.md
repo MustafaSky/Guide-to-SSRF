@@ -110,7 +110,7 @@
 
 [Exploiting an SSRF: Trials and Tribulations](https://medium.com/a-bugz-life/exploiting-an-ssrf-trials-and-tribulations-14c5d8dbd69a)
 
-[Blind SSRF exploitationhttps://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html?m=1](https://lab.wallarm.com/blind-ssrf-exploitation/)
+[Blind SSRF exploitation](https://lab.wallarm.com/blind-ssrf-exploitation/)
 
 [31k$ SSRF in Google Cloud Monitoring](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html?m=1)
 
@@ -172,16 +172,26 @@
 
 # hackerone reports
 
-https://hackerone.com/reports/247680
-https://hackerone.com/reports/895696
-https://hackerone.com/reports/878779
-https://hackerone.com/reports/826361
-https://hackerone.com/reports/736867
-https://hackerone.com/reports/756149
-https://hackerone.com/reports/374737
-https://hackerone.com/reports/361793
+[SSRF in imgur video GIF conversion](https://hackerone.com/reports/247680)
+
+[Full Read SSRF on Gitlab's Internal Grafana](https://hackerone.com/reports/878779)
+
+[SSRF protection bypass](https://hackerone.com/reports/736867)
+
+
+
+[SSRF on project import via the remote_attachment_url on a Note](https://hackerone.com/reports/826361)
+
+[Blind SSRF on debug.nordvpn.com due to misconfigured sentry instance](https://hackerone.com/reports/756149)
+
+[Blind SSRF on errors.hackerone.net due to Sentry misconfiguration](https://hackerone.com/reports/374737)
+
+[SSRF PDF documentconverterws](https://hackerone.com/reports/361793)
+
+[Blind SSRF on https://labs.data.gov/dashboard/Campaign/json_status/ Endpoint](https://hackerone.com/reports/895696)
+
 
 
 # PayloadsAllTheThings / Server Side Request Forgery /
 
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery
+[PayloadsAllTheThings / Server Side Request Forgery](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery)
