@@ -18,6 +18,8 @@ https://www.vaadata.com/blog/understanding-web-vulnerability-server-side-request
 https://www.vaadata.com/blog/exploiting-the-ssrf-vulnerability/
 
 https://www.neuralegion.com/blog/ssrf-server-side-request-forgery/
+
+https://0x221b.github.io/SSRF
  
  
  
@@ -31,13 +33,13 @@ https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Preve
 
 SSRFmap - https://github.com/swisskyrepo/SSRFmap
 
-gf (tomnomnom) — https://github.com/tomnomnom/gf
+gf (tomnomnom) —       https://github.com/tomnomnom/gf
 
 qsreplace(tomnomnom) — https://github.com/tomnomnom/qsreplace
 
-ffuf — https://github.com/ffuf/ffuf
+  ffuf —              https://github.com/ffuf/ffuf
 
-gau(Corben) — https://github.com/lc/gau
+gau(Corben) —           https://github.com/lc/gau
 
 waybackurls(tomnomnom) — https://github.com/tomnomnom/waybackurls
 
@@ -80,4 +82,70 @@ https://blog.assetnote.io/2021/01/13/blind-ssrf-chains/
 
 https://github.com/assetnote/blind-ssrf-chains
 
+https://amineaboud.medium.com/10000-facebook-ssrf-bug-bounty-402bd21e58e5
 
+https://logicbomb.medium.com/tale-of-3-vulnerabilities-to-account-takeover-44ba631a0304
+
+https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html?m=1
+
+https://medium.com/techfenix/ssrf-server-side-request-forgery-worth-4913-my-highest-bounty-ever-7d733bb368cb
+
+https://shahjerry33.medium.com/blind-ssrf-the-hide-seek-game-da9d0ecef2fb
+
+https://medium.com/@Mr.Daman.Singh/how-i-found-3-ssrf-in-one-day-on-different-bug-bounty-targets-62e91b4268f8
+
+https://infosecwriteups.com/exploiting-ssrf-for-admin-access-31c30457cc44
+
+https://rhynorater.github.io/CVE-2020-13379-Write-Up
+
+https://infosecwriteups.com/my-first-bug-blind-ssrf-through-profile-picture-upload-72f00fd27bc6
+
+https://infosecwriteups.com/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4
+
+https://infosecwriteups.com/story-of-a-2-5k-bounty-ssrf-on-zimbra-led-to-dump-all-credentials-in-clear-text-6fe826005ccc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# hackerone reports
+
+https://hackerone.com/reports/247680
+https://hackerone.com/reports/895696
+https://hackerone.com/reports/878779
+
+
+# PayloadsAllTheThings / Server Side Request Forgery /
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery
