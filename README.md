@@ -52,8 +52,7 @@
 
 * [Bug Bounty tip Automating SSRF](https://dant0x65.medium.com/bug-bounty-tip-automating-ssrf-ea344ec59962)
 
-
-
+* [ssrf-sheriffhggi](https://github.com/teknogeek/ssrf-sheriff)
 
 # SSRF Techniques 
 
@@ -134,37 +133,45 @@
 
 * [SSRF - Server Side Request Forgery (Types and ways to exploit it) Part-1](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978)
 
+* [Weaponizing BURP to work as an evil SSRF Confluence Server.](https://medium.com/@Master_SEC/weaponizing-burp-to-work-as-an-evil-ssrf-confluence-server-e077d71b4ef2)
 
+* [Google VRP SSRF in Google Cloud Platform StackDriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/)
 
+* [Vimeo upload function SSRF](https://medium.com/@dPhoeniixx/vimeo-upload-function-ssrf-7466d8630437)
 
+* [SSRF via FFmpeg HLS processing](https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5)
 
+* [My First SSRF Using DNS Rebinding](https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/)
 
+* [BugBounty | A Simple SSRF](https://jinone.github.io/bugbounty-a-simple-ssrf/)
 
+* [ssrf reading local files](https://www.openbugbounty.org/blog/leonmugen/ssrf-reading-local-files-from-downnotifier-server/)
 
+* [An Accidental SSRF Honeypot in Google Calendar](https://www.komodosec.com/post/an-accidental-ssrf-honeypot-in-google-calendar)
 
+* [Gain adfly SMTP access with SSRF via Gopher Protocol](https://medium.com/@androgaming1912/gain-adfly-smtp-access-with-ssrf-via-gopher-protocol-26a26d0ec2cb)
 
+* [SVG XLink SSRF fingerprinting libraries version](https://medium.com/@arbazhussain/svg-xlink-ssrf-fingerprinting-libraries-version-450ebecc2f3c)
 
+* [Server Side Request Forgery(SSRF){port issue hidden approch }](https://medium.com/@w_hat_boy/server-side-request-forgery-ssrf-port-issue-hidden-approch-f4e67bd8cc86)
 
+* [The journey of Web Cache + Firewall Bypass to SSRF to AWS credentials compromise!](https://logicbomb.medium.com/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82)
 
+* [Ssrf to Read Local Files and Abusing the AWS metadata](https://medium.com/@pratiky054/ssrf-to-read-local-files-and-abusing-the-aws-metadata-8621a4bf382)
 
+* [From SSRF To RCE in PDFReacter](https://medium.com/@armaanpathan/pdfreacter-ssrf-to-root-level-local-file-read-which-led-to-rce-eb460ffb3129)
 
+* [SSRF vulnerability via FFmpeg HLS processing](https://medium.com/@valeriyshevchenko/ssrf-vulnerability-via-ffmpeg-hls-processing-f3823c16f3c7)
+ 
+* [Escalating SSRF to RCE](https://generaleg0x01.com/2019/03/10/escalating-ssrf-to-rce/)
 
+* [Vimeo SSRF with code execution potential.](https://infosecwriteups.com/vimeo-ssrf-with-code-execution-potential-68c774ba7c1e)
 
+* [Unauthenticated Blind SSRF in Oracle EBS](https://medium.com/@x41x41x41/unauthenticated-ssrf-in-oracle-ebs-765bd789a145)
 
+* [$1.000 SSRF in Slack](https://elbs.medium.com/1-000-ssrf-in-slack-7737935d3884)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [Exploiting SSRF in AWS Elastic Beanstalk](https://notsosecure.com/exploiting-ssrf-in-aws-elastic-beanstalk/)
 
 
 
@@ -187,6 +194,20 @@
 * [SSRF PDF documentconverterws](https://hackerone.com/reports/361793)
 
 * [Blind SSRF on https://labs.data.gov/dashboard/Campaign/json_status/ Endpoint](https://hackerone.com/reports/895696)
+
+* [SSRF In Get Video Contents](https://hackerone.com/reports/643622)
+
+* [SSRF in webhooks leads to AWS private keys disclosure](https://hackerone.com/reports/508459)
+
+* [SSRF - RSS feed, blacklist bypass (IP Formatting)](https://hackerone.com/reports/299130)
+
+* [SSRF](https://hackerone.com/reports/296045)
+
+* [SSRF in CI after first run](https://hackerone.com/reports/369451)
+
+* [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876)
+
+* [SSRF in api.slack.com, using slash commands and bypassing the protections.](https://hackerone.com/reports/381129)
 
 
 
